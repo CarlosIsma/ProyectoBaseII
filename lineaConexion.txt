@@ -1,0 +1,10 @@
+"ConnectionStrings": {
+    "FormularioEdgDB": "Host=localhost;Port=5432;Pooling=true;Database=formulario_edg_2015;User Id=postgres;Password=carlos2304;"
+  },
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  }
+}
